@@ -2,7 +2,7 @@
 
 https://www.teleprompteur.fr/ 17 ?
 
-## Introduction
+## Introduction (1)
 
 Bonjour et bienvenue dans ce cours consacré à l'histoire de la création de Bitcoin. Je suis votre hôte, Ludovic Lars, et vais vous raconter le long parcours qui a mené à l'apparition et à l'essor progressif de Bitcoin, jusqu'en 2011. L'histoire de Bitcoin est trop souvent méconnue, bien qu'elle regorge de détails fascinants. Nous nous concentrerons, dans ce cours, sur les débuts de Bitcoin : d'où il vient, comment il a été lancé et quels ont été les premiers développements.
 
@@ -26,7 +26,7 @@ Ce cours est divisé en quatre parties. La première est consacrée à l'étude 
 
 Prêt à explorer l'incroyable saga de la création de Bitcoin ? Alors, plongeons ensemble dans cette histoire hors du commun !
 
-## Chapitre 1 : eCash : l'argent liquide électronique chaumien
+## Chapitre 1 : eCash : l'argent liquide électronique chaumien (0)
 
 Avant d'aborder l'histoire proprement dite de la création de Bitcoin par Satoshi Nakamoto, il convient d'évoquer ce qui a précédé. Le premier concept est eCash, sur lequel nous nous concentrerons. eCash est issu du travail de David Chaum, informaticien et cryptographe américain, considéré comme un pionnier dans le domaine des communications anonymes et comme un précurseur des cypherpunks.
 
@@ -84,7 +84,7 @@ Enfin, le modèle de David Chaum a considérablement influencé Satoshi Nakamoto
 
 Avec Bitcoin, Satoshi Nakamoto a créé une monnaie numérique robuste et confidentielle, un réel argent liquide électronique. En cela, il a réalisé la prédiction de Milton Friedman, prix Nobel d'économie et fondateur de l'École de Chicago, qui disait au micro de la National Taxpayers Union Foundation en 1999 : « Je pense qu'Internet va devenir l'une des forces majeures qui va réduire le rôle de l'État. La seule chose qui manque, mais qui sera bientôt développée, c'est un argent liquide électronique fiable, une méthode qui permette de transférer des fonds de A à B sur Internet sans que A connaisse B ou que B connaisse A. »
 
-## Chapitre 2 : Les monnaies numériques privées
+## Chapitre 2 : Les monnaies numériques privées (0)
 
 Les monnaies numériques privées constituent également des ancêtres de Bitcoin.
 
@@ -142,7 +142,7 @@ La fermeture de ces derniers systèmes a été contemporaine de la création et 
 
 C'est à cause de cette fragilité des systèmes centralisés que les partisans de la liberté – dont notamment les cypherpunks – ont cherché à créer une monnaie décentralisée. Il fallait trouver un moyen d'éviter de faire reposer l'intégralité de l'infrastructure du système sur un point unique. C'est pourquoi plusieurs modèles « minimisant la confiance » ont émergé à la fin des années 1990 et au début des années 2000, avant la découverte de Bitcoin. Le prochain chapitre sera consacré à ces modèles.
 
-## Chapitre 3 : Les modèles décentralisés avant Nakamoto
+## Chapitre 3 : Les modèles décentralisés avant Nakamoto (0)
 
 Bitcoin constitue un modèle décentralisé de monnaie numérique, évitant le recours à un tiers de confiance, qui pourrait constituer un point de défaillance unique du système. Ce n'est cependant pas le premier concept de la sorte à avoir été proposé. Dès la fin des années 1990, de tels modèles ont été décrits par les cypherpunks, qui étaient obsédés par la liberté et la confidentialité des individus sur Internet, et qui jugeaient (à l'instar de David Chaum) que les systèmes surveillés menaient à un avenir dystopique. Ces modèles reposaient sur des éléments constitutifs, qu'on retrouverait dans Bitcoin.
 
@@ -238,8 +238,7 @@ Bitcoin forme donc l'aboutissement d'une quête pour la cybermonnaie, une monnai
 
 Cette histoire est unique et vous intéressera forcément si vous êtes arrivés là. Tenez-vous prêts !
 
-
-## Chapitre 4 : La naissance de Bitcoin
+## Chapitre 4 : La naissance de Bitcoin (1)
 
 Après avoir appris d'où venait Bitcoin, nous allons à présent nous concentrer sur son histoire proprement dite. Cette histoire a fait l'objet de nombreux articles, podcasts et vidéos au fil des années, de sorte qu'elle est presque devenue une sorte de mythe fondateur. Bitcoin est indissociable du contexte dans lequel il a été créé, et il l'est également des évènements fondateurs qui ont marqué son émergence, qui ont forgé ce qu'il est aujourd'hui. Voyons donc ce qu'il en est.
 
@@ -283,11 +282,121 @@ Mais Hal Finney n'est pas la seule personne à essayer Bitcoin à ce moment-là.
 
 À partir du 9 janvier 2009, le réseau ne s'arrêtera pas. Bloc après bloc, la chaîne continuera de s'allonger. Et Bitcoin finira par connaître le succès.
 
-Images : Adam Back, livre blanc
+## Chapitre 5 : La présentation au monde (1)
 
-## Chapitre 5 : La présentation au monde
+Après avoir étudié comment Bitcoin a été conçu et démarré par Satoshi Nakamoto, concentrons-nous sur la façon dont il a été présenté publiquement.
 
-## Chapitre 6 : L'amorçage de la cryptomonnaie
+Suite à son lancement au début de l'année 2009, le réseau fonctionnne, mais les nœuds générateurs sont peu nombreux (Satoshi mine la grande majorité des blocs) et l'activité est pour ainsi dire inexistante (32 transactions effectives ont lieu durant le mois de janvier). Le projet ne dispose que d'un site web rudimentaire et d'une page sur SourceForge où télécharger le logiciel. En outre, la communication à propos de Bitcoin se limite alors à la Metzdowd Cryptography mailing list, suivie au mieux par quelques centaines de personnes intéressées par la cryptographie.
+
+Le défi de cette période est par conséquent de faire la promotion de Bitcoin afin d'attirer une masse critique d'utilisateurs, qui pourront ensuite contribuer à la cause d'une manière ou d'une autre. C'est pourquoi Satoshi a pour priorité d'améliorer le site et d'interagir avec diverses personnes. Il veut faire connaître sa découverte au monde.
+
+Le lancement lors du mois de janvier 2009 est l'occasion pour Satoshi Nakamoto d'établir les paramètres fixes de son système. Comme il l'écrira plus tard, la nature de Bitcoin est telle que, « dès la version 0.1 lancée », son fonctionnement de base est « gravé dans le marbre pour le reste de son existence », de sorte qu'il est nécessaire de bien régler les choses avant que le système prenne de l'ampleur. En particulier, deux éléments fondateurs revêtent une importance culturelle majeure : le contenu du bloc de genèse et la limite des 21 millions d'unités.
+
+Le bloc de genèse (ou genesis block en anglais) est le bloc de base de la chaîne de blocs de Bitcoin, à partir duquel elle doit être prolongée. Il est par conséquent inscrit en dur dans le logiciel. Avant le lancement du réseau, Satoshi construit ce premier maillon en produisant la preuve de travail requise et en l'horodatant au 3 janvier 2009 à 18:15 (UTC). Dans ce bloc (et plus précisément dans la transaction de récompense), il inclut le titre de la une du quotidien britannique *The Times* de ce jour-là, qui indique que le chancelier de l'Échiquier (c'est-à-dire le ministre des finances britannique) est sur le point de renflouer les banques pour la seconde fois.
+
+Cette inscription a pour intérêt d'empêcher l'antidatage du lancement du réseau en prouvant que le système n'a pas été démarré avant le 3 janvier. Mais elle revêt aussi un aspect symbolique en indiquant ce à quoi Bitcoin s'oppose en faisant référence au contexte monétaire et financier de l'époque. À l'époque, le monde subit en effet de plein fouet les effets de la crise financière amorcée en 2007 par l'éclatement de la bulle des subprimes aux États-Unis. Les États renflouent les institutions financières pour éviter de nouvelles faillites après la chute de la banque d'investissement Lehman Brothers survenue le 15 septembre 2008, et les banques centrales procèdent à des assouplissements quantitatifs en injectant des liquidités sur les marchés financiers. Cette utilisation d'argent public créé pour l'occasion, a pour effet de troubler un certain nombre de citoyens qui réalisent que le système bancaire est en réalité un système de profits privés et de pertes socialisées. Bitcoin, quant à lui, contraste ainsi avec les monnaies étatiques en n'étant pas soumis à l'arbitraire d'une banque centrale.
+
+La politique monétaire du bitcoin est en effet programmée à l'avance, inscrite dans le protocole, pour en théorie ne jamais être altérée. Cela nous amène au second élément présenté par Satoshi le jour du lancement du réseau : la limite des 21 millions. Le 8 janvier, dans son courriel d'introduction, il décrit la politique d'émission des bitcoins de la façon suivante :
+
+« Le nombre total d'unités en circulation sera de 21 millions. Elles seront distribuées aux nœuds du réseau lorsqu'ils créeront des blocs, la quantité émise étant divisée par deux tous les 4 ans. \[...\] Une fois cette somme épuisée, le système pourra prendre en charge les frais de transaction si nécessaire. »
+
+Quelques jours plus tard, Hal Finney réagit favorablement à cette politique monétaire sur la liste en s'enthousiasmant du fait que « le système peut être configuré de manière à n'autoriser qu'un certain nombre maximum d'unités à être générées ». Dans son courriel, il estime que si Bitcoin devient « le système de paiement dominant utilisé dans le monde entier », chaque unité aura alors « une valeur d'environ 10 millions de dollars » de dollars. Il conclut en écrivant que « la possibilité de générer des unités aujourd'hui avec quelques centimes de temps de calcul » peut constituer « un très bon pari ». Même si l'estimation est contestable (car elle se base sur une valorisation du bitcoin qui serait équivalente à la totalité de la richesse mondiale), le raisonnement se tient.
+
+Le 16 janvier, Satoshi reprend cette idée d'« investissement à long terme » en la partageant avec la liste de diffusion. Il déclare alors qu'il « pourrait être judicieux de s'en procurer au cas où le phénomène prendrait de l'ampleur » et que « si suffisamment de gens pensent la même chose, on pourra assister à une prophétie autoréalisatrice ». Il réitère cette affirmation un mois plus tard en expliquant que le montant limité d'unités est susceptible de créer une « boucle de rétroaction positive » dans le sens où « plus les utilisateurs sont nombreux, plus la valeur augmente, ce qui peut attirer davantage d'utilisateurs désireux de profiter de cette hausse ». De ce fait, l'élément spéculatif est présent dès le départ, dans le but d'amorcer le système.
+
+Le 11 février, Satoshi publie un message d'introduction présentant Bitcoin sur le forum (p2pfoundation.ning.com), dont il envoie une copie par courriel à la liste (p2p-research). Dans ce texte, il écrit :
+
+« Le problème fondamental de la monnaie conventionnelle est toute la confiance nécessaire pour la faire fonctionner.  Il faut faire confiance à la banque centrale pour qu'elle ne déprécie pas la monnaie, mais l'histoire des monnaies fiat est pleine de violations de cette confiance.  Il faut faire confiance aux banques pour détenir notre argent et le transférer par voie électronique, mais elles le prêtent par vagues de bulles de crédit avec à peine une fraction en réserve.  Nous devons leur faire confiance pour protéger notre vie privée, pour ne pas laisser les voleurs d'identité vider nos comptes.  Leurs frais généraux considérables rendent les micropaiements impossibles. »
+
+Sur son profil, il indique être un homme japonais, mais ce n'est pas tout. Une mise à jour de l'interface en 2011 fera apparaître son âge : 35 ans, soit 32 ou 33 ans en 2009. Puis, on découvrira en 2014 qu'il a indiqué une date de naissance particulière : le 5 avril 1975. Cette date, d'apparence bénigne, est vraisemblablement une date composite faisant référence à l'interdiction pour les citoyens américains de détenir de l'or entre 1933 et 1975 aux États-Unis. Le jour du 5 avril se rapporte au jour de l'instauration de cette interdiction par l'Ordre exécutif 6102 signé par le président Franklin Delano Roosevelt le 5 avril 1933, et l'année 1975 correspond à son année d'abrogation lors de l'entrée en vigueur de la Public Law 93-373. Ce détail est très important puisque cette prohibition a mis fin à l'étalon-or classique (où chacun pouvait obtenir de l'or en échange d'un billet représentatif), a permis de dévaluer le dollar (par le biais du Gold Reserve Act en 1934) et a facilité l'instauration du régime monétaire à taux de change flottants que nous connaissons suite au Nixon Shock de 1971.
+
+Satoshi Nakamoto est aussi actif sur la liste de diffusion où il échange notamment avec Martien van Steenbergen, un consultant en gestion de projet néerlandais. Le 13 février, il aborde le sujet de la programmabilité de Bitcoin et écrit à ce dernier :
+
+« Je considère Bitcoin comme une pierre angulaire, comme une première étape si l'on veut mettre en œuvre des monnaies sociales de pair à pair programmables telles que décrites par les idées de Marc \[Fawzi\] et d'autres discutées ici. »
+
+La stratégie de communication de Satoshi porte peu à peu ses fruits. Le message se diffuse progressivement. Au fil des mois, Satoshi interagit ainsi avec plusieurs personnes qui souhaitent s'impliquer dans Bitcoin, dont en particulier deux individus.
+
+Le premier est Mike Hearn, un développeur britannique travaillant pour Google depuis la Suisse, et s'adonnant au logiciel libre sur son temps libre. Ce dernier s'intéresse alors aux systèmes de paiement numériques, et en particulier à Ripple. C'est justement sur le Google Group de Ripple qu'il entend parler de Bitcoin. Il contacte Satoshi le 12 avril, avec qui il discute de différents aspects de Bitcoin, et notamment son choix pour les 21 millions de bitcoins. Satoshi explique qu'il voulait « choisir quelque chose qui rendrait les prix similaires à ceux des monnaies existantes ».
+
+Le second est Martti Malmi, un jeune étudiant en informatique finlandais, qui découvre Bitcoin au début du mois d'avril, par l'intermédiaire du forum de la Fondation P2P. Le 9 avril, il publie un texte aux accents anarchistes sur deux forums libertariens. Il l'envoie à Satoshi, qui approuve et lui dit que sa « compréhension de Bitcoin » est « en plein dans le mille ». Dans son courriel, Martti écrit aussi qu'il « aimerait aider avec Bitcoin » même s'il n'a « pas encore beaucoup d'expérience en matière de développement ».
+
+Peu à peu, Martti Malmi deviendra le bras droit de Satoshi. Il est d'abord chargé de remplir la page web sur SourceForge, où il présente Bitcoin comme une « monnaie numérique anonyme basée sur un réseau pair à pair », description qui sera reprise sur Bitcoin.org. Le 8 mai, Martti Malmi fait la promotion de la page en partageant un lien sur les plateformes Hackernews et Reddit.
+
+Ensuite, il a la responsabilité de mettre en place un forum. Le forum est hébergé sur SourceForge et ouvre le 9 juin. Celui-ci rencontre son succès, à tel point qu'il est nécessaire de créer un nouveau forum ayant son hébergement dédié. C'est chose faite au début du mois de décembre avec l'inscription des premiers membres et l'ouverture des premières discussions. L'URL est bitcoin.org/smf. Celui-ci deviendra Bitcointalk en août 2011.
+
+Enfin, Martti participe aussi au développement du logiciel, et aide notamment Satoshi à l'adapter à Linux. La version 0.2 est publiée le 16 décembre, ce qui marque la première étape dans la croissance de Bitcoin.
+
+## Chapitre 6 : L'amorçage de la cryptomonnaie (0)
+
+Dans les chapitres précédents, nous avons observé comment Satoshi Nakamoto a mis en œuvre son idée et comment il a communiqué à son sujet pour faire connaître Bitcoin au monde. Cependant, tout ne dépend pas de lui : il faut également que les gens accordent une valeur à l'unité de compte. Puisque cette dernière permet de rémunérer les mineurs grâce aux frais de transaction et de récompenser les commerçants grâce à la déflation naturelle, il s'ensuit qu'une telle appréciation est essentielle à la sécurité du système.
+
+L'émergence de la valeur du bitcoin n'est en revanche pas une chose aisée. Il s'agit en effet de donner une importance économique à un objet qui n'en avait pas auparavant, et ce pour des raisons entièrement subjectives. Hal Finney l'explique très bien dans son courriel du 11 janvier 2009 adressé à la Cryptography mailing list, où il écrivait qu'« il est toujours difficile de trouver un argument raisonnable justifiant l'attribution d'une valeur non nulle pour les unités ». Ainsi, le phénomène monétaire nécessite une première évaluation qui se fasse pour une raison non monétaire. Comme l'écrit Satoshi à Martti en mai 2009, il faut une « étincelle » pour lancer la combustion d'un matériau inflammable.
+
+Cet amorçage économique de Bitcoin se fait peu à peu à partir du lancement du réseau avec l'activité du minage.
+
+**Les premiers mineurs** Les personnes qui déploient des nœuds générateurs sont donc les premières à accorder, indirectement, de la valeur à l'unité de compte. Celles-ci mettent en effet à contribution leur puissance de calcul pour ajouter des preuves de travail aux blocs de transactions et ainsi les rattacher à la chaîne, ce qui constitue une tâche coûteuse en temps (à cause du maintien du logiciel) et en énergie (à cause de l'électricité consommée dans le processus). Cet effort est récompensé en bitcoins, de sorte que la génération de pièces par ce moyen constitue une forme d'échange économique.
+
+les bitcoins n'ont aucune valeur sur le marché. Il faut donc que les mineurs trouvent des raisons, subjectives, de réaliser un tel effort. Les raisons principales sont au nombre de trois : la curiosité technique, la motivation idéologique et l'intérêt spéculatif.
+
+Le premier motif, qui est probablement le moins important, est la curiosité technique. Les premiers adeptes de Bitcoin sont en effet souvent des passionnés d'informatique, et exercent la plupart du temps des professions liées à la programmation ou à l'ingénierie. Ils aiment donc savoir comment fonctionnent les choses « sous le capot », ce qui les pousse à lancer le logiciel et à générer quelques bitcoins. C'est notamment le cas de Mike Hearn qui, après avoir posé ses questions à Satoshi le 12 avril 2009, s'empresse d'« essayer l'application » sur son ordinateur et de produire quelques blocs.
+
+La deuxième raison pour miner est la motivation idéologique. Beaucoup des premiers utilisateurs du logiciel le font « pour la bonne cause », en raison de leurs croyances personnelles. Ils mettent à disposition leur puissance de calcul pour contribuer à la naissance d'une monnaie numérique robuste qui ne repose sur aucune autorité centrale. Hal Finney est le premier à mettre en avant cette conception le 13 novembre 2008 en écrivant :
+
+« Le système bitcoin s'avère socialement utile et appréciable, de sorte que les opérateurs de nœuds ont le sentiment d'apporter une contribution bénéfique au monde par leurs efforts (à l'instar des divers projets informatiques "@Home" dans le cadre desquels les gens mettent bénévolement leurs ressources informatiques au service d'une bonne cause). »
+
+En particulier, Bitcoin s'inscrit bien dans le mouvement libertarien étasunien, qui défend le marché libre exacerbé et qui est résolument hostile à l'État, et en particulier à sa mainmise sur la monnaie (« End The Fed »). C'est pourquoi Satoshi répond à Hal Finney en écrivant que son argument est « très attrayant pour le point de vue libertarien » dans la mesure où il est possible de « l'expliquer correctement ».
+
+Le troisième moteur derrière le fait de se mettre à miner est l'intérêt spéculatif. Comme nous l'avons expliqué dans le chapitre précédent, la politique monétaire de Bitcoin constitue l'un de ses arguments de vente principaux. Si la quantité de bitcoins en circulation doit tendre vers une quantité fixe (21 millions d'unités), alors leur prix unitaire pourrait devenir très élevé au fur et à mesure que des gens rejoindront l'économie. C'est notamment cet argument qui convainc Dustin Trammell de commencer très vite à générer des bitcoins, comme il le confie à Satoshi dans leur correspondance privée :
+
+« C'est l'une des raisons qui m'ont poussé à démarrer un nœud si rapidement.  Mes systèmes ne font pas grand-chose d'autre lorsqu'ils sont inactifs, alors pourquoi ne pas créer des BitCoins ?  Et s'ils valent quelque chose un jour ... ? Ce sera un bonus ! »
+
+Les deux dernières raisons sont bien plus importantes dans la mesure où elles poussent les gens à miner en continu. Ainsi, durant l'année 2009, plusieurs personnes poussées par ces raisons produisent un nombre conséquent de blocs en apportant leur puissance de calcul au réseau. Parmi ces personnes, on retrouve notamment :
+
+Hal Finney, qui fait tourner son ordinateur entre le lancement du réseau et mars 2009 et qui parvient ainsi à accumuler plus de 10 000 bitcoins ;
+Dustin Trammell, qui mine une quantité impressionnante de blocs tout au long de l'année 2009 et au début de l'année 2010, et qui obtient ainsi plus de 70 000 bitcoins comme en témoigne l'activité liée à son adresse ;
+Un ingénieur britannique du nom de James Howells, qui génère 8 000 bitcoins avec son ordinateur entre février et avril (il enverra son ordinateur à la décharge en 2013 et se rendra compte de son erreur quelques mois plus tard ; son cas sera alors médiatisé par le Guardian) ;
+Martti Malmi, qui contribue à la production des blocs sur le réseau entre avril 2009 et 2010 et qui obtient ainsi plus de 55 000 bitcoins ;
+Un certain NewLibertyStandard, qui génère un nombre important de bitcoins à partir de septembre 2009 pour alimenter son service de change naissant...
+
+**Le premier service de change et le premier prix** À la fin du mois de septembre 2009, un individu utilisant le pseudonyme NewLibertyStandard (que nous abrègerons en NLS) découvre Bitcoin. Il essaie le logiciel et se met à miner. Le premier bloc qu'il produit est le bloc 23 940. Il est utilisateur de Linux et passe donc par l'« émulateur » Wine pour faire tourner le logiciel. Il est intéressé par la liberté politique et par les métaux précieux, comme en témoigne son avatar sur le forum qui représente un Eagle américain (voir l'image ci-dessous) sur lequel le mot « liberty » est inscrit. Il voit ainsi Bitcoin comme un équivalent de l'or dans le monde numérique : sur sa page personnelle, il présente la création de Satoshi Nakamoto comme « une révolution économique » et comme « la référence de la monnaie numérique ».
+
+En octobre 2009, il met en place le premier service de change permettant aux gens de convertir leurs dollars en bitcoins et leurs bitcoins en dollars. Il s'inscrit sur le forum consacré à Bitcoin sur SourceForge et y annonce l'ouverture de son service. Pour estimer le taux de change, il se fonde sur le coût énergétique qui lui est nécessaire pour obtenir une unité, en prenant en compte le prix de l'électricité à son emplacement et la fréquence de sa production personnelle. Sur sa page, il écrit :
+
+« Notre taux de change est calculé en divisant 1,00 $ par la quantité moyenne d'électricité nécessaire pour faire fonctionner un ordinateur avec une utilisation du processeur élevée pendant un an, soit 1331,5 kWh, multipliée par le coût résidentiel moyen de l'électricité aux États-Unis pour l'année précédente, soit 0,1136 $, le tout divisé par 12 mois, divisé par le nombre de bitcoins générés par mon ordinateur au cours des 30 derniers jours. »
+
+Les échanges se règlent par courriel à l'adresse newlibertystandard@gmail.com. Les transferts en dollar se font uniquement par Paypal et des frais sont prélevés dans l'opération.
+
+Le 8 octobre, Martti Malmi informe Satoshi de l'existence du service de NLS. Le créateur de Bitcoin réagit positivement à cette nouvelle, car il songeait depuis quelque temps à mettre en place un moyen de garantir la valeur des bitcoins pour récompenser le minage et lancer la dynamique économique du système.
+
+À la suite de l'annonce de NLS, Martti Malmi rentre en contact avec lui. Les deux personnes s'accordent alors pour réaliser un échange. Dans la nuit du 11 au 12 octobre 2009, la première vente de bitcoins en dollars est finalisée : Martti cède 5 050 bitcoins provenant de sa production minière à NLS qui lui vire 5,02 $ sur son compte PayPal. Cela correspond à un prix unitaire d'environ 0,001 $.
+
+Au cours des semaines suivantes, NLS accumule plus de bitcoins pour approvisionner son service. Le 19 novembre, quelqu'un lui achète les quelque 22 500 bitcoins qu'il possède, ce qui clôt sa première vente de bitcoins. Quelques heures plus tard, Satoshi s'enthousiasme de cette opération financière dans un courriel écrit à Martti Malmi.
+
+Dans les mois qui suivent, le service de NLS sera un élément central du développement économique de Bitcoin, en offrant un indice de référence pour le change entre le bitcoin et le dollar. Cependant, il commencera à être concurrencé au cours de la première moitié de l'année 2010, avec l'apparition d'autres services de change plus performants.
+
+**Les balbutiements de l'économie** Le début de l'année 2010 est marqué par les balbutiements des échanges commerciaux en cryptomonnaie. NewLibertyStandard, qui est le premier à accepter effectivement de recevoir du bitcoin en l'échange d'un autre bien économique (des dollars en l'occurrence), est aussi premier promoteur de cet essor économique. Le 19 janvier 2010, juste après son inscription sur le nouveau forum, il écrit : « Toutes les personnes qui achètent ou vendent des biens en utilisant des bitcoins, y compris les changeurs, font progresser l'économie de Bitcoin. Que tout le monde fasse sa part. Achetez ou vendez quelque chose en échange de bitcoins ! »
+
+L'effort de coordination se fait principalement sur le forum. Le 27 janvier, un utilisateur néerlandais se faisant appeler giik crée un fil intitulé « We accept Bitcoins » dans lequel il propose de lister les différents services qui acceptent le bitcoin.
+
+Le 5 février, NLS propose que le bitcoin, à l'instar des monnaies négociées sur le marché des changes, adopte le sigle boursier BTC et le symbole du baht thaïlandais (฿). Jusqu'à présent, il n'y avait pas d'usage établi : par exemple, Satoshi et Martti utilisaient les lettres bc pour décrire les unités dans leur correspondance. L'utilisation du sigle BTC se normalise rapidement. Le 24 février, le symbole de la monnaie (le B majuscule traversé par deux barres verticales) est conçu par Satoshi, qui crée alors le premier véritable logo de Bitcoin.
+
+Peu à peu, les gens commencent à accepter le bitcoin. C'est le cas de l'utilisateur SmokeTooMuch en décembre 2009, fraîchement arrivé, qui signale l'existence d'un service de vente de cartes-cadeaux paysafecard nommé BTC 2 PSC. Le service sera d'ailleurs mentionné positivement par Satoshi le 4 février 2010. C'est également le cas de NLS qui, le 9 février, ouvre son propre magasin en ligne, le Liberty Swap Variety Shop, où il propose à la vente des timbres et des autocollants.
+
+Le change avec le dollar se développe aussi et, en l'espace de deux mois, ce ne sont pas moins de trois plateformes qui ouvrent leurs portes :
+
+BitcoinFX (bitcoinfx.cz.cc), un service de vente de bitcoins en dollars de Liberty Reserve, qui est annoncé le 15 février ;
+BitcoinExchange (bitcoinexchange.com), la plateforme de Martti Malmi, qui a pour particularité de jauger l'offre et la demande en prenant en compte les euros et les bitcoins déposés par les usagers, et qui est ouverte au public le 2 mars 2010 ;
+Bitcoin Market (bitcoinmarket.com), une place de marché de pair à pair utilisant PayPal qui est lancée par un dénommé dwdollar le 16 mars, et qui connaîtra un certain succès avant l'apparition de Mt. Gox en juillet.
+
+Le 11 mars, la première partie de poker mettant en jeu des bitcoins est organisée par l'administrateur de BitcoinFX, ce qui inaugure la relation forte qui existera entre le jeu d'argent et la cryptomonnaie. La partie est remportée par dwdollar, qui gagne 600 BTC.
+
+D'autres services acceptant le bitcoin apparaissent comme le service de voix sur IP Link2VoIP le 16 mars, l'hébergeur web Vekja.net le 23 avril ou encore le vendeur de noms de domaines Privacy Shark le 30 avril. Cette multiplication des services conduit Martti Malmi à finalement héberger une page de référencement des commerçants sur le site Bitcoin.org.
+
+On voit également le premier service dépositaire dédié à Bitcoin apparaître : il s'agit de MyBitcoin, une application web permettant un usage facile et serein de la cryptomonnaie, notamment sur mobile. Grâce à ce service, les utilisateurs n'ont en effet pas besoin de télécharger les données complètes de la chaîne pour envoyer et recevoir des transactions, ni de conserver leurs bitcoins eux-mêmes en sauvegardant leurs clés privées.
+
+À cette époque, les portefeuilles légers (dits « SPV ») n'existent pas, si bien que Satoshi Nakamoto lui-même juge qu'il est alors acceptable de passer par ce type de logiciel « pour la petite monnaie destinée aux micropaiements et aux dépenses diverses ».
+
+Enfin, le 19 mai, un utilisateur se faisant appeler Teppy commence à accepter le bitcoin pour le jeu massivement multijoueur dont il est l'administrateur, A Tale in the Desert.
 
 ## Chapitre 7 : Cartes graphiques, pizzas et bitcoins gratuits
 
