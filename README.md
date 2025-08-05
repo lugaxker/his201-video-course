@@ -15,3 +15,5 @@
 11. [La floraison de l'écosystème](ch11.md)
 12. [La disparition de Satoshi](ch12.md)
 13. [La prise de relai de la communauté](ch13.md)
+
+Une image illustre le paragraphe (ou une partie du paragraphe) *qui suit*.
